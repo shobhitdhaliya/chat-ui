@@ -1,0 +1,9 @@
+{
+  "name": "chatgpt-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ChatGPT-style chat UI in plain HTML, CSS and JS, powered by the Gemini API",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
